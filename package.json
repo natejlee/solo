@@ -1,0 +1,19 @@
+{
+  "name": "solo",
+  "version": "1.0.0",
+  "description": "### Overview:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natejlee/MKS-solo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natejlee/MKS-solo/issues"
+  },
+  "homepage": "https://github.com/natejlee/MKS-solo#readme"
+}
